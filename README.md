@@ -4,7 +4,7 @@
 - 💞️  I’m looking to collaborate in the future on open source projects and internships.
 - 📫  How to reach me: You can reach me through my GitHub profile.
 - 😄  Pronouns: He/Him
-- ⚡  Fun fact:Fun fact: Once, I spent a solid two hours debugging a program, only to discover I had mixed up two lines of code.
+- ⚡  Fun fact:Once, I spent a solid two hours debugging a program, only to discover I had mixed up two lines of code.
   One was deleting the object, and the other was trying to save information from that very object. No wonder I kept getting "object doesn't exist" errors!
 
 <!---
