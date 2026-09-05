@@ -13,8 +13,6 @@ I’m a Computer Science student focused on building backend systems and real-wo
 
 - 🤝 Open to future collaborations, internships, and open-source contributions
 
-- 📫 Reach me at: beniramez2016@gmail.de
-
 ⚡ If it compiles, it complies.
 
 # 💻 Tech Stack:
